@@ -111,7 +111,6 @@ Machine Learning algorithms used:
 
 - Random Forest Classifier
 - Logistic Regression
-- Decision Tree
 
 ---
 
