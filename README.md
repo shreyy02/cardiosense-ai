@@ -232,7 +232,7 @@ Prediction results are displayed instantly with healthcare insights.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/shreyy02/sameproject.git
+git clone https://github.com/shreyy02/cardiosense-ai.git
 ```
 
 ---
@@ -240,7 +240,7 @@ git clone https://github.com/shreyy02/sameproject.git
 ## Move Into Project Folder
 
 ```bash
-cd sameproject
+cd cardiosense-ai
 ```
 
 ---
