@@ -109,8 +109,8 @@ Patient healthcare dataset containing:
 
 Machine Learning algorithms used:
 
-- Random Forest Classifier
 - Logistic Regression
+- Naive Bayes
 
 ---
 
